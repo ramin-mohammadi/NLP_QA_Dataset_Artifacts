@@ -8,3 +8,7 @@ epochs, labeling samples as easy, hard, or ambiguous
 ambiguous questions, with a −1% decrease on easy questions
 
 [![Page 1 of paper](assets/pg1.png)](https://github.com/ramin-mohammadi/NLP_QA_Dataset_Artifacts/blob/main/ACL_Paper.pdf)
+
+![](assets/cartography.png)
+![](assets/result1.png)
+![](assets/result2.png)
